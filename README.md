@@ -1,1 +1,1 @@
-# AgenticAITry
+# AgenticAI
